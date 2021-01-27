@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-03-image-finder-infinite-scroll/static/css/main.683e8413.chunk.css",
+    "main.js": "/goit-react-hw-03-image-finder-infinite-scroll/static/js/main.b65f6e1d.chunk.js",
+    "main.js.map": "/goit-react-hw-03-image-finder-infinite-scroll/static/js/main.b65f6e1d.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-03-image-finder-infinite-scroll/static/js/runtime-main.d5b5c250.js",
+    "runtime-main.js.map": "/goit-react-hw-03-image-finder-infinite-scroll/static/js/runtime-main.d5b5c250.js.map",
+    "static/css/2.7f70e799.chunk.css": "/goit-react-hw-03-image-finder-infinite-scroll/static/css/2.7f70e799.chunk.css",
+    "static/js/2.330eea37.chunk.js": "/goit-react-hw-03-image-finder-infinite-scroll/static/js/2.330eea37.chunk.js",
+    "static/js/2.330eea37.chunk.js.map": "/goit-react-hw-03-image-finder-infinite-scroll/static/js/2.330eea37.chunk.js.map",
+    "index.html": "/goit-react-hw-03-image-finder-infinite-scroll/index.html",
+    "static/css/2.7f70e799.chunk.css.map": "/goit-react-hw-03-image-finder-infinite-scroll/static/css/2.7f70e799.chunk.css.map",
+    "static/css/main.683e8413.chunk.css.map": "/goit-react-hw-03-image-finder-infinite-scroll/static/css/main.683e8413.chunk.css.map",
+    "static/js/2.330eea37.chunk.js.LICENSE.txt": "/goit-react-hw-03-image-finder-infinite-scroll/static/js/2.330eea37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5b5c250.js",
+    "static/css/2.7f70e799.chunk.css",
+    "static/js/2.330eea37.chunk.js",
+    "static/css/main.683e8413.chunk.css",
+    "static/js/main.b65f6e1d.chunk.js"
+  ]
+}
